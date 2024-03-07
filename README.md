@@ -6,7 +6,7 @@
 <p><em>A dedicated programmer and web designer based in Hamburg, Germany.
 Currently, I'm contributing to the <a href="https://www.bundeswehr.de/en/organization/the-cyber-and-information-domain-service">Cyber and Information Service of the Bundeswehr.</a> As an IT soldier, I acquired comprehensive knowledge and practical experience in handling state-of-the-art information technology. My professional journey has acquainted me with various aspects of cybersecurity, network administration, and data analysis.</em></p>
 
-[![Gmail Badge](https://img.shields.io/badge/-hoxha.a2004@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hoxha.a2004@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-patriciaschffr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:patriciaschffr@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Aurel%20Hoxha-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aurel-hoxha/ "Connect on LinkedIn")
 
 ---
